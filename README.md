@@ -1,1 +1,1 @@
-# coinebase-nextjs
+# coinbase-nextjs
